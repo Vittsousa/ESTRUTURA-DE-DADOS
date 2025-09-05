@@ -4,6 +4,11 @@
 // git push
 
 
-// executar
+// executar(chat)
 // gcc -o my_program NOME DO ARQUIVO
 // ./my_program
+
+
+// executar (SOMA NOME DO ARQUIVO)
+// gcc soma.c -o soma
+// ./soma
